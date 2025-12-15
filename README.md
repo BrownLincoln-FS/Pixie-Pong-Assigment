@@ -1,6 +1,7 @@
 # Pixie Pong Assigment
 
 **Author:** Lincoln Brown
+
 **Class** WDV3322-O 01
 
 ## Description
