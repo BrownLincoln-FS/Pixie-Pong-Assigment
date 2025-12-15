@@ -4,12 +4,6 @@
 **Class** WDV3322-O 01
 
 ## Description
-# PixiJS Promise Game Assignment
-
-**Author:** Lincoln Brown  
-**Course:** [Insert Course Name/Number Here]
-
-## Description
 This project is a web-based application built using PixiJS that demonstrates asynchronous logic handling using JavaScript Promises.
 
 The application was built to demonstrate skills I learned when studying/learning PixiJS, and JavaScript Promises.
